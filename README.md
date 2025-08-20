@@ -1,3 +1,3 @@
 # 3147253-Salinas-Juan-Semana-1
 
-En esta semana realicé mi primera api que nos pedía relizar un gets para agregar mensajes y tambien para agregar nuestro nom
+para esta semana la idea fue crear una API sencilla con algunos endpoints de prueba, para ir entendiendo cómo funciona este framework y cómo se pueden construir servicios rápidos y fáciles de mantener.
